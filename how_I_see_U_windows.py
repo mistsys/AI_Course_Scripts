@@ -8,7 +8,7 @@ import subprocess
 
 headers = {
     'Content-Type': 'application/json',
-    'Authorization': 'Token al6tJNHvOSmJGl3HMQesKqdqI0gxX7QCSh7OxL1yMvZpGFDQsPhWhfLBCYCajkBEmybzlqvr90UVsKh8amVKyyEP8dgJhPWd'
+    'Authorization': 'Token al6tJNHvOSmJG3333######################################8amVKyyEP8dgJhPWd'
 }
 
 def get_clientrssi():
